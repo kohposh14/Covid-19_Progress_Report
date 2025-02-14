@@ -26,7 +26,7 @@ A data analysis project examining global vaccination efforts using Python and Pl
 ```
 
 ## Key Insights
-- **Vaccine Diversity**: Countries use 2-9 different vaccines (e.g., Iran uses 9 types including COVIran Barekat and SpikoGen)
+- **Vaccine Diversity**: Countries use 2-9 different vaccines (e.g., Iran uses 9 types)
 - **Regional Trends**:
   - Oxford/AstraZeneca dominates in African nations
   - mRNA vaccines (Pfizer/Moderna) prevail in North America/Europe
